@@ -1,0 +1,47 @@
+.showcaseThumbs_div
+{
+padding:0px 0px 0px 45px;
+margin:0px;
+float:left;
+overflow:hidden;
+text-align:left;
+position:relative;
+}
+
+.wpns_thumb_slider
+{
+height:80px;
+padding:0px;
+display:block;
+overflow:hidden;
+float:left;
+margin:0px;
+}
+.wpns_thumb_slider ul
+{
+width:860px;
+height:80px;
+float:left;
+list-style:none;
+}
+.wpns_thumb_slider ul li
+{
+float:left;
+padding:0px;
+margin:0px;
+}
+.wpns_next_thumb
+{
+background:url(button_right.png) no-repeat center;
+width:25px;
+height:75px;
+float:left;
+}
+
+.wpns_prev_thumb
+{
+background:url(button_left.png) no-repeat center;
+width:25px;
+height:75px;
+float:left;
+}
